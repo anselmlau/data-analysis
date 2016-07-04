@@ -1,3 +1,3 @@
 # data-analysis
 
-Side-projects based on interesting data found around the web.
+Running scripts on interesting datasets
